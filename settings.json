@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "GitHub Dark",
+    "files.autoSave": "afterDelay",
+    "C_Cpp.updateChannel": "Insiders",
+    "explorer.confirmDelete": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true
+}
