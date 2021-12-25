@@ -4,5 +4,15 @@
     "C_Cpp.updateChannel": "Insiders",
     "explorer.confirmDelete": false,
     "liveServer.settings.donotVerifyTags": true,
-    "liveServer.settings.donotShowInfoMsg": true
+    "liveServer.settings.donotShowInfoMsg": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": false
+    },
+    "explorer.confirmDragAndDrop": false,
+    "emmet.includeLanguages": {"django-html": "html"},
+
 }
