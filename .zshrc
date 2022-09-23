@@ -104,3 +104,4 @@ alias lar="ls -laR"
 HISTSIZE=5000
 HISTFILESIZE=5000
 export PATH=$PATH:/home/michele/.cargo/bin
+export PATH=$PATH:/usr/local/go/bin
