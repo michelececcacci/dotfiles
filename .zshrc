@@ -105,3 +105,4 @@ HISTSIZE=5000
 HISTFILESIZE=5000
 export PATH=$PATH:/home/michele/.cargo/bin
 export PATH=$PATH:/usr/local/go/bin
+export JAVA_HOME=/usr/lib/jvm/java-1.17.0-openjdk-amd64
