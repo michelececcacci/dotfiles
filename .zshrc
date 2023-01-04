@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/michele/.oh-my-zsh"
+export ZSH=~/.oh-my-zsh
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -103,6 +103,8 @@ alias ll="ls -l"
 alias lar="ls -laR"
 HISTSIZE=5000
 HISTFILESIZE=5000
-export PATH=$PATH:/home/michele/.cargo/bin
+export PATH=$PATH:~/.cargo/bin
 export PATH=$PATH:/usr/local/go/bin
 export JAVA_HOME=/usr/lib/jvm/java-1.17.0-openjdk-amd64
+export GOPATH=$HOME/go
+export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
