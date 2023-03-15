@@ -108,3 +108,6 @@ export PATH=$PATH:/usr/local/go/bin
 export JAVA_HOME=/usr/lib/jvm/java-1.17.0-openjdk-amd64
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+source /usr/share/doc/fzf/examples/key-bindings.zsh
+source /usr/share/doc/fzf/examples/completion.zsh
+
